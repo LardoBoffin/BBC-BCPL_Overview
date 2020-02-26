@@ -8,4 +8,6 @@ The Standalone Generator scanned document can be found in Documents, along with 
 
 I have yet to get hold of a scanned copy of the Calculations Package manual.
 
+The document BCPL Overview gives an introduction to using BCPL on the Beeb. It will be updated and new sections added.
+
 
